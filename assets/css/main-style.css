@@ -248,8 +248,9 @@ header .navbar {
 	background-color: #fff!important;
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
-.background-header .navbar-brand h2 {
+.background-header .navbar-brand img {
 	color: #a4c639!important;
+	fill: #a4c639!important;
 }
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e!important;
